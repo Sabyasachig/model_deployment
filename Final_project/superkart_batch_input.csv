@@ -1,0 +1,6 @@
+Product_Weight,Product_Sugar_Content,Product_Allocated_Area,Product_Type,Product_MRP,Store_Id,Store_Establishment_Year,Store_Size,Store_Location_City_Type,Store_Type
+12.5,Low Sugar,120,Dairy,220,OUT049,1999,Medium,Tier 2,Supermarket Type1
+8.2,Regular,90,Snack Foods,150,OUT017,2007,Small,Tier 3,Grocery Store
+15.0,No Sugar,200,Fruits and Vegetables,300,OUT010,1985,High,Tier 1,Supermarket Type2
+6.8,Low Sugar,70,Breads,80,OUT013,2010,Small,Tier 2,Supermarket Type3
+10.4,Regular,140,Soft Drinks,180,OUT027,2002,Medium,Tier 3,Supermarket Type1

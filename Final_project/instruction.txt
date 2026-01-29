@@ -1,0 +1,70 @@
+Criteria
+Data Overview and Exploratory Data Analysis
+- Observations on the shape of data, data types of various attributes, missing values, duplicate values and statistical summary.
+- Univariate Analysis (boxplots, distribution plots for important variables)
+- Bivariate Analysis
+- Insights based on EDA
+
+======================
+Criteria
+Data Preprocessing
+- Feature engineering (provide rationale if not needed)
+- Outlier detection and treatment (provide rationale if treatment is not needed)
+- Prepare the data for analysis (Train and Test sets)
+- Define the preprocessing pipeline for encoding categorical features
+
+=======================
+Criteria
+Model Building
+- Choose the metric of choice with proper rationale
+- Build any 2 ML models as a part of a pipeline with the data preprocessing steps
+- Comment of the perfomance of the models
+
+* The ML models to be built can be any two out of Decision Tree, Bagging, Random Forest, AdaBoost, Gradient Boosting, and XGBoost
+
+=======================
+Criteria
+Model Performance Improvement - Hyperparameter Tuning
+- Use hyperparameter tuning to tune the models wrt the metric of choice
+- Comment of the perfomance of the tuned models
+
+=======================
+Criteria
+Model Performance Comparison, Final Model Selection, and Serialization
+- Compare the performances of all models built and choose the best model (with proper rationale)
+- Check the performance of the best model on the test set
+- Serialize the best model
+- Load the serialized model and make predictions on the test set
+
+=======================
+Criteria
+Deployment - Backend
+- Define the Flask API
+- Define the dependencies
+- Define the Dockerfile
+- Create the Docker space in Hugging Face
+- Upload the files to the space
+- Share the link of the Hugging Face space
+
+=======================
+Criteria
+Deployment - Frontend
+- Define the streamlit web application
+- Define the dependencies file
+- Create the Streamlit space in Hugging Face
+- Upload the files to the space
+- Share the link of the Hugging Face space
+
+=======================
+Criteria
+Actionable Insights and Recommendations
+- Write down insights from the analysis conducted
+- Provide actionable business recommendations
+
+=======================
+Criteria
+Notebook - Overall quality
+- Structure and flow
+- Well commented code
+- All code executed and necessary output visible
+- No Errors
